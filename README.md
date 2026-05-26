@@ -1,109 +1,202 @@
-# Lo Bunleang
+<div align="center">
 
-**Software Developer** — Phnom Penh, Cambodia
+<!-- Animated typing header -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=32&duration=3000&pause=1000&color=0D1117&background=FFFFFF00&center=true&vCenter=true&width=600&height=70&lines=Hi%2C+I'm+Lo+Bunleang;Full-Stack+Developer;Backend+%26+DevOps+Enthusiast" alt="Typing SVG" />
 
-Fourth-year Information and Communication Engineering student at the Institute of Technology of Cambodia (ITC). I build web applications with a focus on backend systems, REST and GraphQL APIs, and containerized deployment pipelines.
+<br/>
+
+<!-- Subtitle -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=14&duration=4000&pause=2000&color=6E7681&center=true&vCenter=true&width=600&height=30&lines=Building+scalable+web+apps+from+Phnom+Penh%2C+Cambodia" alt="Subtitle" />
+
+<br/><br/>
+
+<!-- Contact badges -->
+[![Email](https://img.shields.io/badge/lobunleang%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:lobunleang@gmail.com)
+[![Telegram](https://img.shields.io/badge/086691541-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/086691541)
+[![GitHub](https://img.shields.io/badge/Bunleang--code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Bunleang-code)
+[![LinkedIn](https://img.shields.io/badge/lobunleang-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/lobunleang)
+[![Location](https://img.shields.io/badge/Phnom%20Penh%2C%20Cambodia-FF0000?style=flat-square&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Phnom+Penh)
+
+<br/>
+
+<!-- Profile views counter -->
+![Profile Views](https://komarev.com/ghpvc/?username=Bunleang-code&style=flat-square&color=0D1117&label=Profile+Views)
+
+</div>
 
 ---
 
-## About
+## About Me
 
-- Currently working on **ស្វែររក**, a student part-time job platform for Cambodia
-- Studying at **Institute of Technology of Cambodia (ITC)**, expected graduation 2027
-- Comfortable across the full stack: Vue.js on the frontend, NestJS or Spring Boot on the backend
-- Interested in backend architecture, DevOps tooling, and system design
-- Open to internship and junior developer opportunities
+```typescript
+const bunleang = {
+  role      : "Junior Full-Stack Developer",
+  education : "Institute of Technology of Cambodia (ITC) — Year 4",
+  degree    : "Bachelor of Engineering in Information & Communication Engineering",
+  location  : "Phnom Penh, Cambodia",
+  graduation: 2027,
+
+  currentProject: "ស្វែររក — Student Part-Time Job Platform",
+
+  stack: {
+    languages : ["TypeScript", "JavaScript", "Java", "C", "C++"],
+    frontend  : ["Vue.js", "HTML", "CSS", "Tailwind CSS"],
+    backend   : ["Node.js", "NestJS", "Spring Boot", "GraphQL", "REST APIs"],
+    databases : ["PostgreSQL", "MySQL", "MongoDB"],
+    devops    : ["Docker", "Jenkins", "Ansible", "Linux", "Git"],
+  },
+
+  interests : ["Backend Architecture", "CI/CD Pipelines", "System Design"],
+  openTo    : ["Internship", "Junior Developer Roles"],
+};
+```
 
 ---
 
-## Technical Skills
+## Tech Stack
 
 **Languages**
-`Java` `JavaScript` `TypeScript` `C` `C++`
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
 **Frontend**
-`Vue.js` `HTML` `CSS` `Tailwind CSS`
+
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
 **Backend**
-`Node.js` `NestJS` `Spring Boot` `REST APIs` `GraphQL` `Maven` `Gradle`
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 **Databases**
-`MySQL` `PostgreSQL` `MongoDB`
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 **DevOps & Tools**
-`Docker` `Jenkins` `Ansible` `Git` `GitHub` `Linux`
 
-**Networking**
-`VLAN` `DHCP` `DNS` `Client-Server Architecture` `Cisco Packet Tracer`
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 
 ---
 
 ## Projects
 
 ### ស្វែររក — Student Part-Time Job Platform
-**Stack:** NestJS, Vue.js, PostgreSQL (Supabase), TypeORM, GraphQL, Docker
+> Connecting Cambodian students with part-time employment opportunities
 
-A full-stack platform connecting Cambodian students with part-time employment opportunities. Supports three roles: students, HR employers, and administrators.
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-- Designed a PostgreSQL schema covering job listings, applications, employer profiles, and skill matching
-- Built REST and GraphQL APIs with NestJS, including authentication, job management, and geocoding-based location features
-- Containerized the application stack with Docker and configured environment-based secrets via docker-compose
+- Full-stack job platform with student, employer, and admin roles
+- REST + GraphQL API layer with TypeORM entity relationships
+- PostgreSQL schema spanning ~40 tables: jobs, applications, billing, skill-matching
+- JWT-based authentication, file upload (Multer), geocoding-based location features
+- Containerized with Docker Compose, environment config via Supabase
 
-[View Repository](https://github.com/Bunleang-code)
-
----
-
-### Jenkins CI/CD Pipeline — Laravel Deployment
-**Stack:** Jenkins, Docker, Ansible, Laravel, Nginx, Linux (Ubuntu)
-
-Automated CI/CD pipeline deploying a Laravel application to a remote Ubuntu server, with Telegram bot notifications for build status.
-
-- Built a custom Jenkins SSH agent Dockerfile with PHP, Node.js 20, and Ansible
-- Wrote Ansible playbooks to provision the target server and deploy application artifacts
-- Configured Nginx as a reverse proxy for production serving
-- Offloaded frontend asset compilation to the Jenkins agent to handle RAM constraints on the remote server
-
-[View Repository](https://github.com/Bunleang-code)
+[![View Repo](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Bunleang-code)
 
 ---
 
-### NestJS Event-Driven Service with RabbitMQ
-**Stack:** NestJS, TypeScript, PostgreSQL, RabbitMQ, Docker Compose
+### Jenkins CI/CD Pipeline — Laravel Auto-Deployment
+> Automated deployment pipeline with Telegram build notifications
 
-Backend service demonstrating event-driven architecture with RabbitMQ message queuing, API key authentication, and request logging.
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-- Implemented TypeORM CRUD repositories, DTOs, and API Key Guard for route protection
-- Integrated RabbitMQ via `ClientsModule` with a token-based abstraction to avoid circular dependencies
-- Added a Logging Interceptor for request/response tracing across all endpoints
+- Custom Jenkins SSH agent Dockerfile with PHP, Node.js 20, and Ansible
+- Ansible playbooks for server provisioning and artifact deployment
+- Nginx reverse proxy configuration for production serving
+- Telegram bot integration for real-time build status notifications
+- Resolved RAM constraints by offloading frontend builds to the Jenkins agent
 
-[View Repository](https://github.com/Bunleang-code)
+[![View Repo](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Bunleang-code)
+
+---
+
+### NestJS Event-Driven Microservice — RabbitMQ
+> Backend service with message queuing, API key auth, and request logging
+
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+- TypeORM CRUD, DTO validation, and API Key Guard for route protection
+- `EVENT_PUBLISHER` token abstraction to resolve circular module dependencies
+- Logging Interceptor for request/response tracing across all endpoints
+- Full stack containerized with Docker Compose
+
+[![View Repo](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Bunleang-code)
 
 ---
 
 ### DogHub — E-Commerce Website
-**Stack:** Express.js, Vue.js, MongoDB, JWT
+> Full-stack e-commerce platform with auth and inventory management
 
-Full-stack e-commerce platform with JWT-based authentication, product and inventory management, and promotion handling.
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-- Implemented role-based access control and JWT authentication
-- Built backend APIs for product management, orders, and promotions
-- Developed Vue.js frontend interfaces consuming the REST API
+- JWT-based authentication and role-based access control
+- Product, inventory, promotions, and order management APIs
+- Vue.js frontend consuming the REST API layer
 
-[View Repository](https://github.com/Bunleang-code)
+[![View Repo](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Bunleang-code)
 
 ---
 
 ## GitHub Stats
 
-![Lo Bunleang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bunleang-code&show_icons=true&theme=default&hide_border=true&count_private=true)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bunleang-code&layout=compact&theme=default&hide_border=true)
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Bunleang-code&show_icons=true&theme=github_dark&hide_border=true&count_private=true&rank_icon=github" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bunleang-code&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bunleang-code&theme=github-dark-blue&hide_border=true" />
+
+<br/><br/>
+
+<!-- Snake contribution animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bunleang-code/Bunleang-code/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bunleang-code/Bunleang-code/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Bunleang-code/Bunleang-code/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
 
 ---
 
-## Contact
+<div align="center">
 
-- Email: lobunleang@gmail.com
-- Phone: 096 514 564 7 / 086 691 541 (Telegram)
-- Location: Phnom Penh, Cambodia
-- LinkedIn: [linkedin.com/in/lobunleang](https://linkedin.com/in/lobunleang)
+*Fourth-year ICE student at ITC. Open to internship and junior developer opportunities.*
+
+[![Email](https://img.shields.io/badge/Get_In_Touch-lobunleang%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:lobunleang@gmail.com)
+
+</div>
