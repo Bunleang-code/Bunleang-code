@@ -41,10 +41,6 @@ Current Focus:
   - Docker & DevOps
   - CI/CD Pipelines
   - Microservices
-
-Open To:
-  - Internship
-  - Junior Software Engineer
 ```
 ---
 
