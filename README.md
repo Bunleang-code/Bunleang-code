@@ -46,32 +46,6 @@ Open To:
   - Internship
   - Junior Software Engineer
 ```
-
----
-
-# 🚀 Current Project
-
-## ស្វែររក — Student Part-Time Job Platform
-
-A platform connecting Cambodian students with part-time employment opportunities.
-
-### Features
-
-- Student Dashboard
-- Employer Dashboard
-- Job Applications
-- JWT Authentication
-- Role-Based Access Control
-- Skill Matching
-- Location-Based Search
-- GraphQL API
-
-### Tech Stack
-
-```text
-NestJS • GraphQL • PostgreSQL • Docker • TypeScript
-```
-
 ---
 
 # ⚡ Tech Stack
